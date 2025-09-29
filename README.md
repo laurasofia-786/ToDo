@@ -8,7 +8,7 @@ Aplicación colaborativa de tareas desarrollada con **Vite + React + Tailwind**.
    ```bash
    git clone git clone https://github.com/laurasofia-786/ToDo.git
 
-   cd team-todo
+   cd ToDo
    ```
 2. Instala las dependencias:
    ```bash
@@ -20,6 +20,7 @@ Aplicación colaborativa de tareas desarrollada con **Vite + React + Tailwind**.
    ```
 4. (Opcional) Inicia el backend simulado con JSON Server:
    ```bash
+   cd ToDo
    json-server --watch db.json --port 4000
    ```
 
