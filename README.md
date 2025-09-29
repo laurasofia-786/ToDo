@@ -6,7 +6,8 @@ Aplicación colaborativa de tareas desarrollada con **Vite + React + Tailwind**.
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/team-todo.git
+   git clone git clone https://github.com/laurasofia-786/ToDo.git
+
    cd team-todo
    ```
 2. Instala las dependencias:
