@@ -16,6 +16,7 @@ export default function App() {
   const [filterCompleted, setFilterCompleted] = useState('all')
   const [loading, setLoading] = useState(true)
 
+  
   // Cargar tareas desde la API
   function fetchTasks() {
     setLoading(true)
